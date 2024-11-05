@@ -1,7 +1,4 @@
-# EX--5-Kali-Linux-Installation-
-
-### Name: GOKULA PRIYA P
-### Reg No: 212222040044
+# Installing Kali Linux on VirtualBox
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
@@ -26,7 +23,7 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 ### Step 2: Open Oracle VM VirtualBox
 1. Launch VirtualBox on your computer.
 
-![image](https://github.com/user-attachments/assets/de807551-50dd-4024-8746-9dda684bc697)
+![image](https://github.com/user-attachments/assets/c4f19c7f-4ac7-44b3-a36a-d3106b7f3449)
 
 
 ---
@@ -86,7 +83,7 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 ### Step 10: Start the Virtual Machine
 1. In VirtualBox, click **Start** to boot up your Kali Linux virtual machine.
 
-![image](https://github.com/user-attachments/assets/075622ab-9f79-48fe-9114-5bb6cbbe8abc)
+![image](https://github.com/user-attachments/assets/a9e0eb66-b872-4bc5-b4cc-fb6f1ae33c57)
 
 
 ---
