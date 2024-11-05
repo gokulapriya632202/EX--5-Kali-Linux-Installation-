@@ -1,5 +1,8 @@
 # Installing Kali Linux on VirtualBox
 
+## NAME:  GOKULA PRIYA P
+## REG NO: 212222040044
+
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
 
